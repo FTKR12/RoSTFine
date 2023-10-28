@@ -1,0 +1,9 @@
+simplejson
+fvcore
+pytorchvideo
+matplotlib
+tensorboardX
+opencv-python
+pytorch-gradcam
+scikit-learn
+prettytable
